@@ -1,0 +1,128 @@
+<Measurement Date="11/24/2013" Time="02:18:44">
+	<Macro>Sunrise_Measure</Macro>
+	<Barcode></Barcode>
+	<SourceBarcode>&lt;none&gt;</SourceBarcode>
+	<Header>
+		<System>TECAN-HP8300</System>
+		<Time>20131124021844977</Time>
+		<Device>Sunrise</Device>
+		<ProcessName></ProcessName>
+		<LabwareName>GeneratedLabware{208}</LabwareName>
+	</Header>
+	<Info>
+		Measurement mode:	Absorbance
+		Measurement wavelength:	620	nm
+		Read mode:	Normal
+		
+	</Info>
+	<ReadMode>Absorbance</ReadMode>
+	<Absorbance Type="Fixed" WaveLength="620" Reference="0" />
+	<Kinetic step="1" timeoffset="0">
+		<DataSet type="Rawdata">
+			<Header>
+				620:
+			</Header>
+		<Well Pos="A1">4790</Well>
+		<Well Pos="B1">2980</Well>
+		<Well Pos="C1">7070</Well>
+		<Well Pos="D1">3210</Well>
+		<Well Pos="E1">5370</Well>
+		<Well Pos="F1">2990</Well>
+		<Well Pos="G1">7150</Well>
+		<Well Pos="H1">3500</Well>
+		<Well Pos="A2">4680</Well>
+		<Well Pos="B2">2840</Well>
+		<Well Pos="C2">6760</Well>
+		<Well Pos="D2">3300</Well>
+		<Well Pos="E2">5140</Well>
+		<Well Pos="F2">2900</Well>
+		<Well Pos="G2">6570</Well>
+		<Well Pos="H2">3330</Well>
+		<Well Pos="A3">4690</Well>
+		<Well Pos="B3">2820</Well>
+		<Well Pos="C3">6370</Well>
+		<Well Pos="D3">2840</Well>
+		<Well Pos="E3">4920</Well>
+		<Well Pos="F3">2560</Well>
+		<Well Pos="G3">6200</Well>
+		<Well Pos="H3">2800</Well>
+		<Well Pos="A4">4690</Well>
+		<Well Pos="B4">2700</Well>
+		<Well Pos="C4">5760</Well>
+		<Well Pos="D4">2480</Well>
+		<Well Pos="E4">4960</Well>
+		<Well Pos="F4">2570</Well>
+		<Well Pos="G4">5750</Well>
+		<Well Pos="H4">2700</Well>
+		<Well Pos="A5">4570</Well>
+		<Well Pos="B5">2230</Well>
+		<Well Pos="C5">5720</Well>
+		<Well Pos="D5">1800</Well>
+		<Well Pos="E5">4700</Well>
+		<Well Pos="F5">2280</Well>
+		<Well Pos="G5">5610</Well>
+		<Well Pos="H5">1850</Well>
+		<Well Pos="A6">4130</Well>
+		<Well Pos="B6">1760</Well>
+		<Well Pos="C6">5650</Well>
+		<Well Pos="D6">1140</Well>
+		<Well Pos="E6">4840</Well>
+		<Well Pos="F6">1520</Well>
+		<Well Pos="G6">5520</Well>
+		<Well Pos="H6">1090</Well>
+		<Well Pos="A7">3960</Well>
+		<Well Pos="B7">1100</Well>
+		<Well Pos="C7">5280</Well>
+		<Well Pos="D7">580</Well>
+		<Well Pos="E7">5000</Well>
+		<Well Pos="F7">860</Well>
+		<Well Pos="G7">5590</Well>
+		<Well Pos="H7">600</Well>
+		<Well Pos="A8">4430</Well>
+		<Well Pos="B8">740</Well>
+		<Well Pos="C8">5210</Well>
+		<Well Pos="D8">570</Well>
+		<Well Pos="E8">4960</Well>
+		<Well Pos="F8">630</Well>
+		<Well Pos="G8">5850</Well>
+		<Well Pos="H8">510</Well>
+		<Well Pos="A9">4160</Well>
+		<Well Pos="B9">780</Well>
+		<Well Pos="C9">5340</Well>
+		<Well Pos="D9">620</Well>
+		<Well Pos="E9">4910</Well>
+		<Well Pos="F9">620</Well>
+		<Well Pos="G9">5630</Well>
+		<Well Pos="H9">520</Well>
+		<Well Pos="A10">4100</Well>
+		<Well Pos="B10">900</Well>
+		<Well Pos="C10">5170</Well>
+		<Well Pos="D10">710</Well>
+		<Well Pos="E10">4950</Well>
+		<Well Pos="F10">720</Well>
+		<Well Pos="G10">5240</Well>
+		<Well Pos="H10">590</Well>
+		<Well Pos="A11">3580</Well>
+		<Well Pos="B11">770</Well>
+		<Well Pos="C11">4980</Well>
+		<Well Pos="D11">630</Well>
+		<Well Pos="E11">4560</Well>
+		<Well Pos="F11">630</Well>
+		<Well Pos="G11">4420</Well>
+		<Well Pos="H11">560</Well>
+		<Well Pos="A12">3730</Well>
+		<Well Pos="B12">860</Well>
+		<Well Pos="C12">4210</Well>
+		<Well Pos="D12">710</Well>
+		<Well Pos="E12">3560</Well>
+		<Well Pos="F12">720</Well>
+		<Well Pos="G12">3860</Well>
+		<Well Pos="H12">600</Well>
+			<Footer>
+				-1
+			</Footer>
+		</DataSet>
+	</Kinetic>
+</Measurement>
+
+:004142260150
